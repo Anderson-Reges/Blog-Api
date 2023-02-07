@@ -17,7 +17,12 @@
 <br>
 
 <br>
+
 <details open="">
+  <summary> 
+  Os requisitos seguidos:
+  </summary>
+  
 ## 1 - Crie migrations para as tabelas `users`, `categories`, `blog_posts`, `posts_categories`
 
 - Esse teste fará uma conexão no banco utilizando a configuração de teste do arquivo `src/config/config.js`;
