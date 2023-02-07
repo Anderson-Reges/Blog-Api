@@ -84,10 +84,12 @@
 <br />
 </details>
 
-<details open="">
-  
-  <summary> 
-  Os requisitos seguidos:
+<details>
+
+  <summary>
+    <strong>
+      Os requisitos seguidos:
+    </strong>
   </summary>
   
 ## 1 - Crie migrations para as tabelas `users`, `categories`, `blog_posts`, `posts_categories`
