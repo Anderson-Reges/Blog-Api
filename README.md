@@ -23,7 +23,7 @@
 
   #### Diagrama de Entidade-Relacionamento
 
-  Para orientar a construção das tabelas através do ORM, utilize o *DER* a seguir:
+  Para orientar sobre as tabelas, utilize o *DER* a seguir:
 
   ![DER](./public/der.png)
 
@@ -31,9 +31,7 @@
 
   #### Formato das entidades
 
-  O seu projeto deverá usar o `ORM Sequelize` para criar e atualizar o seu banco de dados. 
-
-  Os primeiros requisitos do projeto devem orientar a produção de suas migrations para gerar:
+  No projeto foi usado `ORM Sequelize` para criar e atualizar o seu banco de dados. 
 
   - Uma tabela chamada **users**, contendo dados com a seguinte estrutura:
 
