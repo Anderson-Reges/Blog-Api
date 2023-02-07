@@ -1,6 +1,5 @@
 # Boas-vindas ao repositório do projeto API de Blogs!
 
-<details open="">
   <summary><strong><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"><img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"></g-emoji> O que foi desenvolvido nessa projeto</strong></summary>
 <p dir="auto">Neste projeto foi desenvolvido uma API e um banco de dados para a produção de conteúdo para um blog!</p>
 <p dir="auto">Foi usado para desenvolver a aplicação: o <code>Node.js</code> usando o pacote <code>sequelize</code>, utilizando as operações basicas de desenvolvimento conhecido como<code>CRUD</code></p>
@@ -16,10 +15,9 @@
 </li>
 </ol>
 <br>
-</details>
 
 <br>
-
+<details open="">
 ## 1 - Crie migrations para as tabelas `users`, `categories`, `blog_posts`, `posts_categories`
 
 - Esse teste fará uma conexão no banco utilizando a configuração de teste do arquivo `src/config/config.js`;
@@ -879,3 +877,4 @@
 
 </details>
 # Blog-Api
+</details>
