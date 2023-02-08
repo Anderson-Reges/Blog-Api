@@ -13,6 +13,9 @@
 <li>
 <p dir="auto">Foi necessário a utilização de categorias para os posts, trabalhando, assim, a <strong>relação de</strong> <code>posts</code> para <code>categories</code> e de <code>categories</code> para <code>posts</code>.</p>
 </li>
+<li>
+<p dir="auto">Banco de dados usado foi o<code>MySQL</code>.</p>
+</li>
 </ol>
 <br>
 
